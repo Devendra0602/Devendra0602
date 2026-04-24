@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+Data+Into+Business+Insights;Building+Projects+That+Solve+Problems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+Data+Into+Business+Insights;Building+Dashboards+That+Drive+Decisions;Always+Learning+Always+Growing" />
 
 <br>
 
@@ -14,23 +14,42 @@
 
 ## 🚀 About Me
 
-📊 Aspiring Data Analyst passionate about solving real business problems using data.
+📊 Aspiring **Data Analyst** focused on transforming raw data into clear business insights.
+📈 Passionate about dashboards, analytics, and problem-solving.
+🎯 Building projects that reflect real-world business scenarios.
+🇮🇳 Based in India.
 
-💡 Skilled in:
+---
 
-* SQL
-* Power BI
-* Excel
-* Python
-* Data Cleaning
-* Dashboard Building
+## 💼 What I Do
 
-🎯 Currently focused on:
+✔ Analyze datasets to uncover trends
+✔ Build interactive dashboards
+✔ Clean and transform messy data
+✔ Write SQL queries for business insights
+✔ Create reports for decision-making
+✔ Present data-driven recommendations
 
-* Advanced SQL
-* Python Automation
-* Real-world Analytics Projects
-* Interview Preparation
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,sqlite,git,github,vscode,anaconda" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -45,61 +64,35 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🌟 Core Strengths
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-</div>
+📊 Dashboard Design
+📈 Data Visualization
+🧹 Data Cleaning
+🗃 SQL Querying
+📌 Business Analysis
+📑 Reporting & KPI Tracking
+🧠 Insight Generation
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Currently Learning
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Devendra0602&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devendra0602&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Devendra0602&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📊 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devendra0602&theme=tokyo-night&hide_border=true"/>
-
-</div>
+🔹 Advanced SQL Optimization
+🔹 Python for Data Analysis
+🔹 Statistics for Analytics
+🔹 Power BI DAX
+🔹 Real-world Case Studies
 
 ---
 
 ## 🎯 2026 Goals
 
-✅ Become Job-Ready Data Analyst
-✅ Build 15 Premium Projects
-✅ Master SQL & Power BI
-✅ Crack Interviews
-✅ Get Great Opportunity
+✅ Build premium portfolio projects
+✅ Become job-ready Data Analyst
+✅ Master SQL + Power BI + Python
+✅ Improve business storytelling
+✅ Land a strong opportunity
 
 ---
 
@@ -107,7 +100,13 @@
 
 📧 Email: [patil.devendra062@gmail.com](mailto:patil.devendra062@gmail.com)
 💼 LinkedIn: https://www.linkedin.com/in/patil-devendra2701/
-🌐 Portfolio: coming soon
+📱 Phone: +91 9969076520
+
+---
+
+## 💡 Quote I Believe In
+
+> "Without data, you're just another person with an opinion."
 
 ---
 
