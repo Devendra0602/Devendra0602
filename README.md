@@ -1,108 +1,131 @@
-<h1 align="center">🚀 Devendra Patil</h1>
+# Hi 👋 I'm Devendra Patil
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Business+Intelligence;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Turning+Raw+Data+Into+Decisions;Building+Dashboards+That+Drive+Growth" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devendra0602&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+SQL+%7C+Power+BI+%7C+Python;Transforming+Raw+Data+Into+Business+Insights;Building+Dashboards+That+Drive+Decisions;Data-Driven+Thinking+%7C+Continuous+Growth" />
 
----
+<br>
 
-## 🧠 Executive Summary
+<img src="https://komarev.com/ghpvc/?username=Devendra0602&label=Profile+Views&color=0e75b6&style=flat" />
 
-Results-driven aspiring **Data Analyst** focused on transforming raw datasets into actionable insights.  
-Strong foundation in **SQL, Power BI, Python, Excel, dashboarding, reporting, KPI design, and analytics storytelling**.
-
-Focused on solving real business problems through clean analysis and smart visualization.
+</div>
 
 ---
 
-## ⚡ Core Expertise
+## 🚀 About Me
 
-🔹 Data Cleaning & Transformation  
-🔹 Interactive Dashboards  
-🔹 SQL Query Optimization  
-🔹 KPI Reporting  
-🔹 Business Intelligence  
-🔹 Data Visualization  
-🔹 Trend Forecasting  
-🔹 Process Automation
+📊 Aspiring **Data Analyst** focused on turning raw data into actionable business insights.  
+📈 Skilled in **SQL, Power BI, Python, Excel**, and dashboard storytelling.  
+🎯 Building real-world portfolio projects based on business scenarios.  
+📚 Continuously learning analytics tools, statistics, and automation.  
+🇮🇳 Based in India.
 
 ---
 
-## 🛠 Tech Arsenal
+## 💼 What I Do
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
-
-</p>
-
-<p align="center">
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/Data_Analytics-111111?style=for-the-badge)
-
-</p>
+✔ Analyze datasets to identify trends and opportunities  
+✔ Build interactive dashboards for decision-making  
+✔ Clean, transform, and structure messy data  
+✔ Write SQL queries for business reporting  
+✔ Generate KPI reports and executive summaries  
+✔ Present insights with clear visual storytelling
 
 ---
 
-## 📊 Signature Projects
+## 🛠 Tech Stack
 
-### 💳 Bank Loan Analytics Dashboard
-Advanced lending KPI dashboard analyzing approval rate, defaults, and revenue metrics.
+<div align="center">
 
-### 📈 Sales Intelligence Dashboard
-Regional revenue, conversion metrics, category growth, and executive reporting.
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,sqlite,git,github,vscode,anaconda" />
 
-### 👥 Customer Churn Analytics
-Behavior trend analysis using SQL + Python to identify churn risk segments.
+<br><br>
 
-### 📦 Inventory Performance Tracker
-Stock movement, reorder alerts, slow-moving SKU analysis.
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</div>
 
 ---
 
-## 📈 Performance Metrics
+## 🏆 Featured Projects
 
-<p align="center">
+📌 **Bank Loan Analytics Dashboard** – Loan approvals, default trends, risk KPIs, revenue insights  
+📌 **HR Analytics Dashboard** – Attrition analysis, retention metrics, employee trends  
+📌 **Customer Churn Analysis** – Identified churn risk patterns using SQL + Python  
+📌 **Advanced Excel Sales Dashboard** – Revenue trends, category growth, performance KPIs  
+📌 **Blinkit Sales Analysis** – Product sales, city performance, operational insights  
+📌 **Stock Market EDA** – Trend exploration, volatility patterns, data visualization
+
+---
+
+## 🌟 Core Strengths
+
+📊 Dashboard Design  
+📈 Data Visualization  
+🧹 Data Cleaning  
+🗃 SQL Querying  
+📌 Business Analysis  
+📑 KPI Reporting  
+🧠 Insight Generation  
+⚡ Problem Solving
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devendra0602&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devendra0602&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
-## 🔥 Contribution Graph
+## 📚 Currently Learning
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devendra0602&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🎯 2026 Mission Targets
-
-✅ Build 20 Premium Analytics Projects  
-✅ Master Advanced SQL  
-✅ Become Power BI Specialist  
-✅ Land Elite Data Analyst Role  
-✅ Build Personal Brand in Analytics
+🔹 Advanced SQL Optimization  
+🔹 Python for Data Analysis  
+🔹 Power BI DAX & Advanced Dashboards  
+🔹 Statistics for Analytics  
+🔹 Real-world Business Case Studies
 
 ---
 
-## 🤝 Connect
+## 🎯 2026 Goals
 
-📍 India  
-💼 LinkedIn: Add Your LinkedIn  
-📧 Email: Add Your Email  
-🌐 Portfolio: Add Your Portfolio
+✅ Build premium analytics portfolio projects  
+✅ Become job-ready Data Analyst  
+✅ Master SQL + Power BI + Python  
+✅ Improve business storytelling  
+✅ Land a strong career opportunity
 
 ---
 
-<p align="center">
-<i>"Data beats opinion when analyzed correctly."</i>
-</p>
+## 🤝 Connect With Me
+
+📧 Email: [patil.devendra062@gmail.com](mailto:patil.devendra062@gmail.com)  
+💼 LinkedIn: [patil-devendra2701](https://www.linkedin.com/in/patil-devendra2701/)  
+🌐 Portfolio: Coming Soon
+
+---
+
+## 💡 Quote I Believe In
+
+> "Without data, you're just another person with an opinion."
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile
+
+</div>
