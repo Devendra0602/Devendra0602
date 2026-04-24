@@ -78,18 +78,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Devendra0602&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devendra0602&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 📚 Currently Learning
 
 🔹 Advanced SQL Optimization  
@@ -114,8 +102,7 @@
 
 📧 Email: [patil.devendra062@gmail.com](mailto:patil.devendra062@gmail.com)  
 💼 LinkedIn: [patil-devendra2701](https://www.linkedin.com/in/patil-devendra2701/)  
-🌐 Portfolio: Coming Soon
-
+📱 Phone: +91 9969076520
 ---
 
 ## 💡 Quote I Believe In
