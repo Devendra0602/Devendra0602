@@ -1,117 +1,108 @@
-# Hi 👋 I'm Devendra Patil
+<h1 align="center">🚀 Devendra Patil</h1>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Business+Intelligence;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Turning+Raw+Data+Into+Decisions;Building+Dashboards+That+Drive+Growth" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+Data+Into+Business+Insights;Building+Dashboards+That+Drive+Decisions;Always+Learning+Always+Growing" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Devendra0602&label=Profile+Views&color=0e75b6&style=flat" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devendra0602&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Executive Summary
 
-📊 Aspiring **Data Analyst** focused on transforming raw data into clear business insights.
-📈 Passionate about dashboards, analytics, and problem-solving.
-🎯 Building projects that reflect real-world business scenarios.
-🇮🇳 Based in India.
+Results-driven aspiring **Data Analyst** focused on transforming raw datasets into actionable insights.  
+Strong foundation in **SQL, Power BI, Python, Excel, dashboarding, reporting, KPI design, and analytics storytelling**.
 
----
-
-## 💼 What I Do
-
-✔ Analyze datasets to uncover trends
-✔ Build interactive dashboards
-✔ Clean and transform messy data
-✔ Write SQL queries for business insights
-✔ Create reports for decision-making
-✔ Present data-driven recommendations
+Focused on solving real business problems through clean analysis and smart visualization.
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Core Expertise
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,sqlite,git,github,vscode,anaconda" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-</div>
+🔹 Data Cleaning & Transformation  
+🔹 Interactive Dashboards  
+🔹 SQL Query Optimization  
+🔹 KPI Reporting  
+🔹 Business Intelligence  
+🔹 Data Visualization  
+🔹 Trend Forecasting  
+🔹 Process Automation
 
 ---
 
-## 🏆 Featured Projects
+## 🛠 Tech Arsenal
 
-📌 Bank Loan Analytics Dashboard
-📌 HR Analytics Dashboard
-📌 Customer Churn Analysis
-📌 Advanced Excel Sales Dashboard
-📌 Blinkit Sales Analysis
-📌 Stock Market EDA
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
 
-## 🌟 Core Strengths
+</p>
 
-📊 Dashboard Design
-📈 Data Visualization
-🧹 Data Cleaning
-🗃 SQL Querying
-📌 Business Analysis
-📑 Reporting & KPI Tracking
-🧠 Insight Generation
+<p align="center">
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Data_Analytics-111111?style=for-the-badge)
+
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 📊 Signature Projects
 
-🔹 Advanced SQL Optimization
-🔹 Python for Data Analysis
-🔹 Statistics for Analytics
-🔹 Power BI DAX
-🔹 Real-world Case Studies
+### 💳 Bank Loan Analytics Dashboard
+Advanced lending KPI dashboard analyzing approval rate, defaults, and revenue metrics.
 
----
+### 📈 Sales Intelligence Dashboard
+Regional revenue, conversion metrics, category growth, and executive reporting.
 
-## 🎯 2026 Goals
+### 👥 Customer Churn Analytics
+Behavior trend analysis using SQL + Python to identify churn risk segments.
 
-✅ Build premium portfolio projects
-✅ Become job-ready Data Analyst
-✅ Master SQL + Power BI + Python
-✅ Improve business storytelling
-✅ Land a strong opportunity
+### 📦 Inventory Performance Tracker
+Stock movement, reorder alerts, slow-moving SKU analysis.
 
 ---
 
-## 🤝 Connect With Me
+## 📈 Performance Metrics
 
-📧 Email: [patil.devendra062@gmail.com](mailto:patil.devendra062@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/patil-devendra2701/
-📱 Phone: +91 9969076520
-
----
-
-## 💡 Quote I Believe In
-
-> "Without data, you're just another person with an opinion."
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Devendra0602&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devendra0602&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-<div align="center">
+## 🔥 Contribution Graph
 
-### ⭐ Thanks for visiting my profile
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devendra0602&theme=tokyo-night&hide_border=true"/>
+</p>
 
-</div>
+---
+
+## 🎯 2026 Mission Targets
+
+✅ Build 20 Premium Analytics Projects  
+✅ Master Advanced SQL  
+✅ Become Power BI Specialist  
+✅ Land Elite Data Analyst Role  
+✅ Build Personal Brand in Analytics
+
+---
+
+## 🤝 Connect
+
+📍 India  
+💼 LinkedIn: Add Your LinkedIn  
+📧 Email: Add Your Email  
+🌐 Portfolio: Add Your Portfolio
+
+---
+
+<p align="center">
+<i>"Data beats opinion when analyzed correctly."</i>
+</p>
